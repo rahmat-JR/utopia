@@ -14,6 +14,8 @@ $ pip install mechanize
 
 $ pip install bs4
 
+$ pip install futures
+
 $ git clone https://github.com/sptty-chan/utopia
 
 # CARA MENJALANKAN
