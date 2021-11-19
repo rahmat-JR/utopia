@@ -5,23 +5,23 @@ Fb     : Sptty Chan
 
 # FITUR CRACK
 
->< Crack Dari Pertemanan Atau Publik
+• Crack Dari Pertemanan Atau Publik
 
->< Crack Dari Followers Publik
+• Crack Dari Followers Publik
 
->< Crack Pertemanan Publik Massal
+• Crack Pertemanan Publik Massal
 
->< Gabungkan Sandi Default Dan Manual
+• Gabungkan Sandi Default Dan Manual
 
->< Dua Method Crack (Api & Mbasic) + TTL
+• Dua Method Crack (Api & Mbasic) + TTL
 
->< Crack Nampilin Opsi
+• Crack Nampilin Opsi
 
->< Cek Opsi Hasil Crack
+• Cek Opsi Hasil Crack
 
->< Setting User Agent
+• Setting User Agent
 
->< Ganti Tema Script
+• Ganti Tema Script
 
 # CARA INSTALL
 
