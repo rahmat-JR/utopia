@@ -12,6 +12,8 @@ Author : Sptty Chan
 
 • Crack Pertemanan Publik Massal
 
+• Crack Old Massal
+
 • Gabungkan Sandi Default Dan Manual
 
 • Dua Method Crack (Api & Mbasic) + TTL
